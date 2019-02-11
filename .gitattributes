@@ -1,0 +1,2 @@
+SFCrimeBinary.csv filter=lfs diff=lfs merge=lfs -text
+SFCrimeOrig.csv filter=lfs diff=lfs merge=lfs -text
